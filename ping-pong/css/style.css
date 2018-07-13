@@ -1,0 +1,33 @@
+body{
+    background-image: url("../images/images.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#background {
+	background:url("../img/backgrounds/foodsBg.jpg");
+	background-position: center center;
+	background-attachment: fixed;
+	background-size: cover;
+	padding:100px 80px;
+}
+
+.box{
+    background-color: red;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    /* padding-top: 55%; */
+    /* padding-right: 20%; */
+}
+.jumbotron{
+    background-image: url("../images/pin-pong.jpg")
+}
+
+#sidebartext{
+    color:Blue;
+}
+
+#mdtex{
+    color: red;
+}
